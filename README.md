@@ -1,8 +1,3 @@
-# C_Programming
-Here’s an updated README template for your GitHub repository, including projects like Library Management, Payroll Management, and other C code:
-
----
-
 # C Programming Projects
 
 Welcome to my collection of C programming projects! This repository includes various projects developed as part of my university coursework and personal projects. These projects demonstrate my skills in C programming, including data structures, algorithms, and system-level programming.
